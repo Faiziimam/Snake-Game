@@ -1,5 +1,5 @@
 # Snake-Game
-This game is made using Javascript,HTML,CSS.
+This game is made using Javascript,HTML,CSS. <br/>
 To play this game simply Click here->https://faiziimam.github.io/Snake-Game/
 
 
