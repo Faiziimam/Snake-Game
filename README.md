@@ -8,6 +8,6 @@ To play this game simply Click here->https://faiziimam.github.io/Snake-Game/
 
 To install this 
 
-1.Clone this repository into your local enviroment 
-2.play around with the code 
+1.Clone this repository into your local enviroment <br/>
+2.play around with the code  <br/>
 3.have fun
